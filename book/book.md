@@ -1,3 +1,7 @@
+---
+title: Goyahkla
+---
+
 \relative.input{metadata.yaml}
 
 \relative.input{preface/README.md}
