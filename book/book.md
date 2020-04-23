@@ -4,6 +4,4 @@
 
 \relative.input{introduction/README.md}
 
-\relative.input{structure/README.md}
-
 \relative.input{appendix/README.md}
