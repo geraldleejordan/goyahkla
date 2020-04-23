@@ -1,7 +1,7 @@
----
-title: Goyahkla
----
+\relative.input{metadata.yaml}
 
-# Goyahkla
+\relative.input{preface/README.md}
+\relative.input{introduction/README.md}
+\relative.input{structure/README.md}
 
-Alone in the dark
+\relative.input{appendix/README.md}
