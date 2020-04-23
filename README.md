@@ -1,6 +1,6 @@
 # Goyahkla
 
-[![GitHub issues](https://img.shields.io/github/issues/geraldleejordan/goyahkla?color=red&label=Issues%20for%20Review&logoColor=%23333333&style=for-the-badge)](https://github.com/geraldleejordan/goyahkla/issues)
+[![GitHub issues](https://img.shields.io/github/issues/geraldleejordan/goyahkla?color=green&label=Issues%20for%20Review&logoColor=%23333333&style=for-the-badge)](https://github.com/geraldleejordan/goyahkla/issues)
 
 [<img alt="Travis CI Build Status" src="http://img.shields.io/travis/geraldleejordan/goyahkla/master.svg" height="20"/>](http://travis-ci.org/geraldleejordan/goyahkla/)
 
