@@ -2,4 +2,4 @@
 
 Book appendices . . . 
 
-\relative.input{appendix1/README.md}
+\relative.input{appendix01/README.md}
