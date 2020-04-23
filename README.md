@@ -4,7 +4,7 @@
 
 [<img alt="Travis CI Build Status" src="http://img.shields.io/travis/geraldleejordan/goyahkla/master.svg" height="20"/>](http://travis-ci.org/geraldleejordan/goyahkla/)
 
-## 1. Introduction
+## Introduction
 
 When I first created this project on 28 Nov 2014, I referred to this project as a "workbench" on Goyahkla. I wanted to write about him and began a brief outline. I left this project until last night, 22 April 2020. So much has happened between! I am back to this, now.
 
