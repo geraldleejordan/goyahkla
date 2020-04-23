@@ -4,9 +4,6 @@ language: generic
 
 services:
   - docker
-  
-before_install:
-- export TZ=Pacific/Auckland
 
 script:
 - |
