@@ -10,7 +10,7 @@ You will find the documents for this project at:
 
 1. [goyahkla.pdf](http://geraldleejordan.github.io/goyahkla/goyahkla.pdf), in the [PDF](http://geraldleejordan.github.io/goyahkla/goyahkla.pdf) format for reading on the computer and/or printing,
 2. [goyahkla.html](http://geraldjeejordan.github.io/goyahkla/goyahkla.html), in the [HTML5](http://geraldleejordan.github.io/goyahkla/goyahkla.html) format for reading in the browser on any device,
-3. [goyahkla.epub](http://geraldleejordan.github.io/goyahkla/goyahkla.epub), in the [EPUB3](http://geraldleejordan.github.io/goyahkla/goyahkla.epub) format for reading on mobile phones or other hand-held devices, and
+3. [goyahkla.epub](http://geraldleejordan.github.io/goyahkla/goyahkla.epub), in the [EPUB3](http://geraldleejordan.github.io/goyahkla/goyahkla.epub) format for reading on mobile phones or other hand-held devices,
 4. [goyahkla.azw3](http://geraldleejordan.github.io/goyahkla/goyahkla.azw3), in the [AZW3](http://geraldleejordan.github.io/goyahkla/goyahkla.azw3) format for reading on Kindle and similar devices.
 
 
