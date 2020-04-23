@@ -2,7 +2,8 @@
 # book metadata
 title:  Goyahkla
 author: [Gerald Lee Jordan]
-date: "\meta.date"
+# date: "\meta.date"
+date: `r format(Sys.Date())`
 keywords: [Goyahkla, Geronimo, Native Americans, Apache, Warrior]
 rights: © 2020 Gerald Lee Jordan
 lang: en-US
