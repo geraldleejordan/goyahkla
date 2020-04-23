@@ -1,4 +1,4 @@
-\relative.input{metadata.yml}
+\relative.input{metadata.yaml}
 
 \relative.input{preface/README.md}
 \relative.input{introduction/README.md}
