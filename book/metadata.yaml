@@ -1,14 +1,14 @@
 ---
 # book metadata
-title: Goyahkla
+title:  Goyahkla
 author: [Gerald Lee Jordan]
 date: "\meta.date"
-keywords: [Goyahkla, Geronimo, Native Americans, Apache, Warrior]
-rights: © 2020 Gerald Lee Jordan
+keywords: [Goyahkla, Geronimo]
+rights: © 2019 Gerald Lee Jordan
 lang: en-US
 
 # reference to associated code repository
-codeRepo: http://github.com/geraldleejordan/goyahkla.git
+codeRepo: http://github.com/geraldleejordan/goyahkla-code.git
 
 # bibliography metadata
 bibliography: bibliography.bib
@@ -21,9 +21,9 @@ template.html: GitHub.html5
 # LaTeX template metadata
 template.latex: eisvogel-book.latex
 titlepage: true
-titlepage-color: "333333"
+titlepage-color: "9F2925"
 titlepage-text-color: "FFFFFF"
-titlepage-rule-color: "E67015"
+titlepage-rule-color: "333333"
 toc-own-page: true
 linkcolor: blue!50!black
 citecolor: blue!50!black
