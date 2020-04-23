@@ -1,5 +1,0 @@
-Goyahkla - 
-
-Chiricahua -
-
-Bedonkohe -
